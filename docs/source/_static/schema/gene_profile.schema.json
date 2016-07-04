@@ -1,1 +1,23 @@
-{"value_gene_value":{"allow":"","desc":null,"level":"D5","index":false,"type":"string"},"gene_id_gene_unique_id":{"allow":"","desc":null,"level":"D5","index":false,"type":"string"},"sample_name":{"allow":"","desc":"Sample name","level":"D5","type":"string","index":true}}
+{
+    "value_gene_value": {
+        "allow": "", 
+        "desc": null, 
+        "level": "D5", 
+        "index": false, 
+        "type": "string"
+    }, 
+    "gene_id_gene_unique_id": {
+        "allow": "", 
+        "desc": null, 
+        "level": "D5", 
+        "index": false, 
+        "type": "string"
+    }, 
+    "sample_name": {
+        "allow": "", 
+        "desc": "Sample name", 
+        "level": "D5", 
+        "type": "string", 
+        "index": true
+    }
+}
