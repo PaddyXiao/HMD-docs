@@ -1,14 +1,14 @@
 {
-    "value_gene_value": {
+    "value": {
         "allow": "", 
-        "desc": null, 
+        "desc": "Gene value", 
         "level": "D5", 
         "index": false, 
         "type": "string"
     }, 
-    "gene_id_gene_unique_id": {
+    "gene_id": {
         "allow": "", 
-        "desc": null, 
+        "desc": "Gene unique ID", 
         "level": "D5", 
         "index": false, 
         "type": "string"
