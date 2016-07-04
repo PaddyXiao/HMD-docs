@@ -1,0 +1,14 @@
+Gene ID	Unique ID
+Gene Name	Unique name
+Gene Length	Length of nucleotide sequence
+Gene Completeness Status	Stating a gene is complete or partial according to the gene predictor
+Cohort Origin	Stating the cohort contributing the representative gene
+Taxonomic Annotation(Phylum Level)	Annotated phylum for a gene
+Taxonomic Annotation(Genus Level)	Annotated genus for a gene
+KEGG Annotation	Annotated KO(s) for a gene
+eggNOG Annotation	Annotated eggNOG(s) for a gene
+Sample Occurence Frequency	Occurrence frequency in samples based on gene profile
+Individual Occurence Frequency	Occurrence frequency in individuals based on gene profile
+KEGG Functional Categories	KEGG functional category(ies) of the annotated KO(s)
+eggNOG Functional Categories	eggNOG functional category(ies) of the annotated eggNOG(s)
+Cohort Assembled	Stating the metagenomic sequencing cohort(s) contributing the representaive gene or a redundant gene belonging to it
